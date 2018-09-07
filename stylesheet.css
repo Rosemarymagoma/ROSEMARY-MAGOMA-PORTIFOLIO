@@ -7,13 +7,14 @@ background-size: contain;
 background-position: left;
 background-clip: content-box;
 border: 200px inset;
-border-bottom: 100px;
+border-bottom: 60px;
 border-radius:15px 50px 30px 5px;
 }
 h1{
   text-align:center;
   color: blueviolet;
-  font-family:monospace;
+  font-family:serif;
+
 }
 p {
   text-align:right;
