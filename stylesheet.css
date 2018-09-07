@@ -23,3 +23,10 @@ p {
   border-right-style: ridge;
   font-style: oblique;
 }
+  .floor {
+  font-style:italic;
+  color: sea;
+  text-align:center;
+  
+
+}
