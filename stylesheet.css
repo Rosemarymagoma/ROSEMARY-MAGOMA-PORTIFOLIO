@@ -1,0 +1,23 @@
+body {
+background-color: salmon;
+height: 300px;
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3CeJEjCVRvgEY1yjh2aMiuA0XNAOrE5kMk0SN_oO3Pn3spb_tQ');
+background-repeat: no-repeat;
+background-size: contain;
+background-position: left;
+background-clip: content-box;
+border: 200px inset;
+border-bottom: 100px;
+border-radius:15px 50px 30px 5px;
+}
+h1{
+  text-align:center;
+  color: blueviolet;
+  font-family:monospace;
+}
+p {
+  text-align:right;
+  border-width: thick;
+  border-right-style: ridge;
+  font-style: oblique;
+}
